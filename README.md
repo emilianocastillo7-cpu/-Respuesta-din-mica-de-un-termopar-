@@ -19,5 +19,5 @@ Grafica en escala logarítmica para analizar el comportamiento de la respuesta
 t_vs_T.png:
 Grafica de Tiempo contra Temperatura 
 # Resultados obtenidos :
-![Descripción]
+![Grafica en formato logarítmico  ]
 (ln(t)_vs_ln(T).png)

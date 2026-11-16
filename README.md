@@ -1,4 +1,4 @@
-#Respuesta Dinámica de  un Termopar :
+# Respuesta Dinámica de  un Termopar 
 
 
 

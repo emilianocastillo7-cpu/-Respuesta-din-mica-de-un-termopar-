@@ -1,5 +1,12 @@
-#Respuesta Dinámica de  un Termopar 
+#Respuesta Dinámica de  un Termopar :
+
+
+
+
 Descripción de los archivos:
+
+
+
 Ajuste_lienal_Termopar.png:
 Grafica el ajuste lineal de ln(t)_vs_ln(T)
 

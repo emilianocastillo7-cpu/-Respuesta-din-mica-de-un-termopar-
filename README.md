@@ -31,14 +31,19 @@ t_vs_T.png:
 
 ![](ln(t)_vs_ln(T).png)
 ![](t_vs_T.png)
+![](Ajuste_lienal_Termopar.png)
 
 
 # Tiempo de respuesta "tao" para el Termopar utilizado 
 
 
-tau para el cambio Frio-Caliente-frio es 0.7396313960366379 segundos 
+tau para el cambio Frio-Caliente-frio es 0.7396313960366379 segundos
+
+
 tau para el cambio Frio-Ambiente-frio es  1.1996408238226106 segundos
+
+
 tau para el cambio Caliente-Ambiente-Caliente es  16.86719291960385 segundos
 
-![](Ajuste_lienal_Termopar.png)
+
 

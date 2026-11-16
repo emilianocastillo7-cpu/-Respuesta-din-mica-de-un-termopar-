@@ -1,3 +1,8 @@
+# Análisis termopar 
+
+Como parte de mí formación en Python, y práctica para futuros análisis encaminado a ser asistente de investigación
+
+
 # Respuesta Dinámica de  un Termopar 
 
 

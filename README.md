@@ -20,5 +20,5 @@ t_vs_T.png:
 Grafica de Tiempo contra Temperatura 
 # Resultados obtenidos :
 
-![texto](ln(t)_vs_ln(T).png)
+![jajaja](ln(t)_vs_ln(T).png)
 

@@ -20,4 +20,4 @@ t_vs_T.png:
 Grafica de Tiempo contra Temperatura 
 # Resultados obtenidos :
 ![Descripción]
-("C:\Users\LENOVO\Desktop\python curso\ln(t)_vs_ln(T).png")
+(ln(t)_vs_ln(T))
